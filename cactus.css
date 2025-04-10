@@ -1,0 +1,64 @@
+
+
+.box{
+  box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 368px;
+  height: 440px;
+  margin-left: 35%;
+  margin-top: 164px;
+  
+}
+
+img{
+  height: 152px;
+  padding-left: 16px;
+  padding-top: 16px;
+  
+  
+}
+
+h2{
+  
+  font-family: 'sora';
+  padding-left: 16px;
+  
+  
+}
+
+.ana{
+  font-size: 13px;
+  font-family: 'sora';
+  padding-top: 20px;
+  padding-left: 16px;
+  padding-bottom: 10px;
+  color: grey;
+  
+  border-style: 2px solid blue;
+  border-top: lightgrey;
+}
+
+.des{
+  text-align: center;
+  padding-top: 6px;
+  margin-left: 16px;
+  border: 1px solid;
+  border-radius: 25px;
+  font-family: 'sora';
+  height: 18px;
+  width:  64px;
+  color: #7C19EE;
+  background-color: #F2EAFD;
+  
+}
+
+p{
+  line-height: 24px;
+  border-bottom-color: gray
+  font-family : 'sora';
+  padding-left: 16px;
+  
+  color: gray
+}
+
